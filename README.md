@@ -1,9 +1,9 @@
 # XL_MacroTools  
 ## Some very useful excel macros for engineers  
 
-[![GitHub](https://img.shields.io/github/license/OlimilO1402/XL_MakroTools?style=plastic)](https://github.com/OlimilO1402/XL_MakroTools/blob/master/LICENSE) 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/OlimilO1402/XL_MakroTools?style=plastic)](https://github.com/OlimilO1402/XL_MakroTools/releases/latest)
-[![Github All Releases](https://img.shields.io/github/downloads/OlimilO1402/XL_MakroTools/total.svg)](https://github.com/OlimilO1402/XL_MakroTools/releases/download/v2026.03.30/XLMakroTools_v2026.03.30.zip)
+[![GitHub](https://img.shields.io/github/license/OlimilO1402/XL_MacroTools?style=plastic)](https://github.com/OlimilO1402/XL_MacroTools/blob/master/LICENSE) 
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/OlimilO1402/XL_MacroTools?style=plastic)](https://github.com/OlimilO1402/XL_MacroTools/releases/latest)
+[![Github All Releases](https://img.shields.io/github/downloads/OlimilO1402/XL_MacroTools/total.svg)](https://github.com/OlimilO1402/XL_MacroTools/releases/download/v2026.03.30/XLMacroTools_v2026.03.30.zip)
 ![GitHub followers](https://img.shields.io/github/followers/OlimilO1402?style=social)
 
 
